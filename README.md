@@ -1,4 +1,4 @@
 # hello-world
 Deneme
 
-Text deneme edit
+new commit test
